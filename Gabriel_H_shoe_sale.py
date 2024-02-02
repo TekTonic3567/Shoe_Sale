@@ -1,5 +1,5 @@
 ### Gabriel_H_shoe_sale.py
-### COMSC 175, Gabriel Hesse
+### Gabriel Hesse
 ### January 25, 2024
 ### Time Spent = Two Hours 30 Mins
 
